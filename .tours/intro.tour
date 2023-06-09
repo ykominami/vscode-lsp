@@ -1,0 +1,13 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Intro",
+  "steps": [
+    {
+      "file": "README.md",
+      "description": "このCodeTourではスケルトンプロジェクトがどのような構造になっているか，順番に見ていきます．\n\n本テンプレートでは\n* サーバーサイドのソースコード `server/src/server.ts`\n* クライアントサイドのソースコード `client/src/extension.ts`\n* プロジェクトのメタファイル `package.json`\n\nを解説します．\n\nより本格的な実装内容は別ブランチの`linter`または`completions`のCodeTourを参照ください．",
+      "line": 1
+    }
+  ],
+  "ref": "master",
+  "description": "本ハンズオンの概要を説明します．"
+}
