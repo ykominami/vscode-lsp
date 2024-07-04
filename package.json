@@ -65,7 +65,7 @@
 		"@typescript-eslint/eslint-plugin": "^7.13.0",
 		"@typescript-eslint/parser": "^7.13.0",
 		"eslint": "^8.57.0",
-		"glob": "^10.4.1",
+		"glob": "^10.4.2",
 		"merge-options": "^3.0.4",
 		"rimraf": "^5.0.7",
 		"ts-loader": "^9.5.1",
